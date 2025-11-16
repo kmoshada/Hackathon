@@ -1,4 +1,4 @@
-# 🧠 Dementia Prediction from Non-Medical Factors
+#  Dementia Prediction from Non-Medical Factors
 
 This project uses machine learning to predict dementia in patients based on a large set of non-medical, demographic, and functional assessment data. The goal is to build a highly accurate binary classification model.
 
@@ -19,7 +19,7 @@ The file `Data Dictionary marked.pdf` was used for all feature engineering and s
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 This project followed a 7-step machine learning workflow:
 
@@ -42,7 +42,7 @@ This project followed a 7-step machine learning workflow:
 
 ---
 
-## 🛠️ Model,Test Set Accuracy
+## Model,Test Set Accuracy
 
 XGBoost --------------------> 94.09%
 
