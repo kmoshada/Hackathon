@@ -32,7 +32,7 @@ This project followed a 7-step machine learning workflow:
     * **Numerical Features:** Imputed missing values with `median` and scaled using `StandardScaler`.
     * **Categorical Features:** Imputed missing values with `most_frequent` and encoded using `OneHotEncoder`.
 4.  **Model Development:**
-    * Trained and compared 7 different models: `LogisticRegression`, `RandomForestClassifier`, `LGBMClassifier`, `XGBClassifier`, `CatBoostClassifier`, `MLPClassifier` (Neural Network), and a `StackingClassifier`.
+    * Trained and compared 7 different models: `LogisticRegression`, `LGBMClassifier`, `XGBClassifier`, `CatBoostClassifier`, `MLPClassifier` (Neural Network), and a `StackingClassifier`.
 5.  **Hyperparameter Tuning:**
     * Used `GridSearchCV` with 3-fold cross-validation on the 80% training set to find the optimal parameters for each model.
 6.  **Model Evaluation:**
