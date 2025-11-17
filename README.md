@@ -57,3 +57,9 @@ MLP (Neural Net) -----------> 90.87%
 Logistic Regression --------> 90.78%
 
 ![A bar chart comparing model accuracies](model_accuracy_comparison.png)
+
+
+
+## New Test Set Accuracy of XGBOOST --------> 94.53%
+
+
